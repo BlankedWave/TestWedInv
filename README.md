@@ -1,2 +1,1 @@
-# TestWedInv
-Wedding card testing
+# wedding-tema-1
